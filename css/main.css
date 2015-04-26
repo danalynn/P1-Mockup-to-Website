@@ -1,0 +1,48 @@
+/* Enter your custom CSS here */
+
+body {
+	font-family: 'Verdana', sans-serif;
+}
+
+h1 {
+    color: #666;
+    font-size: 3.43em;
+    font-weight: 300;
+	text-align: center;
+	padding-top: 24px;
+}
+
+h2 {
+    color: #f07c17;
+    font-size: 2em;
+}
+
+.mug {
+	width: 100%;
+	margin-top: 15px;
+}
+
+.features {
+	border-color: #ccc;
+	border-style: solid;
+    border-width: 1px;
+    margin-top: 20px;
+    height: 225px;
+    padding-top: 42px;
+    padding-left: 28px;
+
+}
+
+li {
+	padding-left: 24px;
+	line-height: 1.6em;
+	font-size: 1.15em;
+	padding-top: 8px;
+}
+
+p {
+	line-height: 2em;
+	padding-top: 10px;
+	font-size: 1.14em;
+
+}
